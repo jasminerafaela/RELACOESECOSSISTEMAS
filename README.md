@@ -33,7 +33,7 @@ Vence a equipe que somar **mais pontos** ao final de todas as perguntas.
 
 1. Faça o download ou clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/desequilibraram-o-ecossistema.git
+   git clone https://github.com/jasminerafaela/RELACOESECOSSISTEMAS.git
    ```
 2. Abra o arquivo `index.html` em qualquer navegador moderno (Chrome, Edge, Firefox).
 3. Projete a tela para a turma e divirta-se!
