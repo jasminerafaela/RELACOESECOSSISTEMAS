@@ -33,7 +33,7 @@ Vence a equipe que somar **mais pontos** ao final de todas as perguntas.
 
 1. Faça o download ou clone este repositório:
    ```bash
-   Acesse o link no seu navegador: https://github.com/jasminerafaela/RELACOESECOSSISTEMAS/
+   Acesse o link no seu navegador: [https://github.com/jasminerafaela/RELACOESECOSSISTEMAS/](https://jasminerafaela.github.io/RELACOESECOSSISTEMAS/)
    ```
    
 2. Na página do repositório, clique no botão verde "<> Code".
