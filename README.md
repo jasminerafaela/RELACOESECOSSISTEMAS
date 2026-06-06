@@ -2,7 +2,7 @@
 
 ![Relações do ecossistema](https://img.shields.io/badge/Educação-Biologia-green) ![HTML](https://img.shields.io/badge/HTML5-Jogo-orange) ![Licença](https://img.shields.io/badge/Licença-MIT-blue)
 
-> Um jogo de tabuleiro virtual no estilo **Passa ou Repassa** para ensinar relações ecológicas de forma divertida. Perfeito para professores aplicarem em sala de aula ou para estudantes revisarem o conteúdo.
+Um jogo de tabuleiro virtual no estilo **Passa ou Repassa** para ensinar relações ecológicas de forma divertida. Perfeito para professores aplicarem em sala de aula ou para estudantes revisarem o conteúdo.
 
 🎮 Sobre o jogo
 
