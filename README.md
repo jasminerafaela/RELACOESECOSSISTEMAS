@@ -48,7 +48,7 @@ Vence a equipe que somar **mais pontos** ao final de todas as perguntas.
 **Sem necessidade de instalação ou servidor.** O jogo roda 100% no navegador.
 
 📸 Capturas de tela
-[Tela do jogo](screenshot.png)
+[Tela do jogo](IMAGE.PNG)
 
 👩‍🏫 Para professores
 O jogo é alinhado à **BNCC**.
